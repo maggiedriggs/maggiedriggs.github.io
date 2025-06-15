@@ -7,20 +7,22 @@
 
 # Main Page Setup
 
-title: John Doe's Portfolio # This is what shows up in the tab of the browser
+title: Maggie Engineering Portfolio # This is what shows up in the tab of the browser
 
 
 
 # Hero Section
-name: John Doe
-headline: headline message
+name: Maggie Driggs
+headline: Hello! Welcome to my Portfolio
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Write an awesome intro and discuss your highlights and qualification. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+Hello! I'm a mechanical engineer with hands-on experience across HVAC design, product development, and materials research in both lab and field settings. Most recently, I interned at Arup, where I worked on HVAC and piping systems to make buildings more sustainable by using Revit and ASHRAE standards to design efficient, code-compliant systems for hospitals and museums.
+
+My engineering background also includes roles at Autoliv and Ortho Development, where I worked on everything from thermal data analysis and combustion optimization to spine prosthetic testing and CT scan dimensioning. As a Lab Assistant at BU’s Engineering Product Innovation Center, I helped manage CNC and 3D printing operations, and taught students how to use manufacturing tools, strengthening both my technical and communication skills.
+
+I’m passionate about problems through thoughtful design and analysis, and I’m eager to grow in an environment where I can continue learning and contribute to impactful engineering projects.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
-profile_image: ./assets/images/profile-image/avatar.jpeg
+profile_image: ./assets/images/profile-image/IMG_0291.jpeg
 
 
 # Link your resume
