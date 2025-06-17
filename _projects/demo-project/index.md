@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Capstone Project - Solar Reflector Tracker
-description:  (I have never been employed by / affiliated with SpaceX. This is for demo use only) 
-    Developing the Super Heavy booster catch project involves designing a robust launch tower with "chopstick" arms, advanced control systems for precise booster alignment, and integrating sophisticated software for real-time trajectory adjustments and structural engineering to handle immense forces.
+title: Capstone Project - Tracking Solar Concentrating Collector
+description:  
+    Designed a two-axis tracking system with motors, gears, and a solar reflecting trough to improve energy capture through heating water in a piping system.
 skills: 
   - Heat Transfer
   - Solidworks Simulation
@@ -20,8 +20,8 @@ main-image: /project2.jpg
 Used for the title (already generated automatically at the top)
 ## Header 2  
 Use this for the header of each section
-### Header 3 
-Use this to have subsection if needed
+### Results
+Hello here are results
 
 
 ## Embedding images 
