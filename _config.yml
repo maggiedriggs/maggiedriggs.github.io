@@ -15,7 +15,8 @@ title: Maggie Engineering Portfolio # This is what shows up in the tab of the br
 name: Maggie Driggs
 headline: Welcome to my Engineering Portfolio
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Hi, I’m a mechanical engineer with hands-on experience in HVAC design, product development, and materials research. I’ve contributed to sustainable building systems at Arup, worked on thermal and mechanical testing at Autoliv and Ortho Development, and supported advanced manufacturing at BU’s Engineering Product Innovation Center. This portfolio showcases a selection of projects that reflect my technical skills, design approach, and commitment to solving real-world problems through thoughtful engineering. Thanks for taking a look!
+  Hi, I’m a mechanical engineer with hands-on experience in HVAC design, product development, and materials research. I’ve contributed to sustainable building systems at Arup, worked on thermal and mechanical testing at Autoliv and Ortho Development, and supported advanced manufacturing at BU’s Engineering Product Innovation Center. 
+  This portfolio showcases a selection of projects that reflect my technical skills, design approach, and commitment to innovation through thoughtful engineering. Thanks for taking a look!
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/IMG_0291.jpeg
@@ -23,7 +24,7 @@ profile_image: ./assets/images/profile-image/IMG_0291.jpeg
 
 # Link your resume
 # You can place your resume in assets/resume/{resume file.pdf} or add external link such as pdf saved in google drive 
-resume-url: https://drive.google.com/file/d/13Z3duVzh-gguPU5r03oJVEE6rV9rd3DS/view?usp=sharing
+resume-url: ./assets/resume/Maggie_DriggsResume.pdf
 
 
 # Set up external links - this will show up as small icons next to your name.
