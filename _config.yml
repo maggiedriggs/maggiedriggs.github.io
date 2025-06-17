@@ -13,9 +13,9 @@ title: Maggie Engineering Portfolio # This is what shows up in the tab of the br
 
 # Hero Section
 name: Maggie Driggs
-headline: Whoohoo hello
+headline: Welcome to my Engineering Portfolio
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  I am a big engineering person
+  Hi, I’m a mechanical engineer with hands-on experience in HVAC design, product development, and materials research. I’ve contributed to sustainable building systems at Arup, worked on thermal and mechanical testing at Autoliv and Ortho Development, and supported advanced manufacturing at BU’s Engineering Product Innovation Center. This portfolio showcases a selection of projects that reflect my technical skills, design approach, and commitment to solving real-world problems through thoughtful engineering. Thanks for taking a look!
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/IMG_0291.jpeg
