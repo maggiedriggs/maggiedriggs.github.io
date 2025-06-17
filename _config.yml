@@ -12,12 +12,15 @@ title: Maggie Engineering Portfolio # This is what shows up in the tab of the br
 
 
 # Hero Section
-name: Maggie Driggs
-headline: Hello! Welcome to my Portfolio
+name: John Doe
+headline: headline message
 description: >- # dont remove this line. this will ignore all new lines until the next section
-Hello! I am a mechanical engineer with hands-on experience
+  Write an awesome intro and discuss your highlights and qualification. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
-profile_image: ./assets/images/profile-image/IMG_0291.jpeg
+profile_image: ./assets/images/profile-image/avatar.jpeg
 
 
 # Link your resume
