@@ -21,16 +21,27 @@ Then, we made a morph chart to gather ideas for the means to our objectives. The
 {% include image-gallery.html images="210Planningchart.png" height="400" %} 
 place the images in project folder/images then update the file path.   
 ## Bill of Materials
-Hello here are results
+Once we had ideas for how we wanted to achieve our objectives, we had to order parts and make a Bill of Materials. There are so many options for each element, and we had to consider how each part would connect and how much current the system would draw. We decided on a gooseneck bad, a resistor pad sensor, an RTC to tell time, and a RGBW LED strip.
 ## Power Budget & Circuitry
+The RGBW LED strip requires 12V and 3.3W, so we decided on a 10W power supply to power the LED strip and all other elements. We wanted to ensure that we had at least double the amount of current that we would actually need, as to not blow anything up. The power budget was essential because it made us know exactly what each element was drawing from the power source.  
+The picture showcases the circuit we made, with the mosfets controlling the LED strip, and taking in commands from the Arduino.
 ## Housing
+We decided on a gooseneck arm so that the lamp is easily adjustable. Some problems aroused once we got all of our parts. The gooseneck had a weird thread size and was too large for the taps we had in the school's machine shop, and we didn't know how we would connect the gooseneck to the lamp shade.  
+So, the first thing I did was go to the machine shop and tap a new hole in the center of the gooseneck and use sheet metal to create a hinge between the gooseneck and shade.
 ## CNC Milled Base
+Next, I made a base on Solidworks and then used Gibbscan to create the tool path for the CNC to mill. I used HDPE as it was cheap and easy to mill, and the base had a lot of surface area so that the lamp is more stable.
 ## Laser Cut Walls and Lid
+I made a DMF file on Solidworks of the walls and lid for the base. I engraved the group's names and an intuitive instruction of where to press on the box and accounted for all the holes. I used CorelDraw and cut the pieces out.
 ## 3D Printed Hinges
+I used PLA on a Makergear to print out some hinges, as ordering them would not be quick enough. The hinges ended up being crunchy, so I would change the settings on them if I revised this lamp.
 ## Redo Shade and Gooseneck Connection
+The sheet metal snapped, so I needed to make a more sturdy connection. I got a 30 60 90 triangle, and milled and tapped a hole in it to fit the gooseneck, and then milled out any metal that would get in the way of the socket part of the screw. Then, I redid the sheet metal bend on top of the triangle so it had extra stability. Then I put back in the pop rivets and called that part good!
 ## Testing
+To ensure that our product was working as we planned it to, we ran tests on the intensity of the light and the color temperature. We found that the lux decreases as distance increases, but that at 30 inches away the light is still sufficient to read. Our objective to light a 60 by 30 inch desk is within this scope.
 ## Color Temperature
+We programmed the arduino to change which color of LEDs are on throughout the day, and used photography software to measure the color temperature emitted. We found that in the morning, our lamp does radiate blue light, and at night it changes to warm light.
 ## Conclusions
+We then presented our lamp to the professors and to the client, and got to keep our lamp! It was fun to go through all the steps of a prompt to a full functioning product!
 
 ## Embedding images 
 ### External images
