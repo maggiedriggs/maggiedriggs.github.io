@@ -31,7 +31,7 @@ Hello here are results
 You can put in multiple entries. All images will be at a fixed height in the same row. With smaller window, they will switch to columns.  
 
 ### Embeed images
-{% include image-gallery.html images="project2.jpg" height="400" %} 
+{% include image-gallery.html images="210Planning.JPG" height="400" %} 
 place the images in project folder/images then update the file path.   
 
 
