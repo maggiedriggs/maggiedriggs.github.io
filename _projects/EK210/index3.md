@@ -8,14 +8,18 @@ skills:
 - CNC Milling
 - Soldering
 - Arduino & Interfacing
-main-image: /project.webp 
+main-image: /me_Ek210.png
 ---
 
 ---
 # Steps of Project
 Used for the title (already generated automatically at the top)
 ## Planning
-Use this for the header of each section
+We first listed all of our objectives and constraints and made a project priority matrix. From there, we decided "be safe, illuminate desk, accessible for gross motor functions, and caters to light sensitivity" we our four most important objectives.
+Then, we made a morph chart to gather ideas for the means to our objectives. The goal is to lay everything out on the table with no judgments.
+### Embeed images
+{% include image-gallery.html images="210Planningchart.png" height="400" %} 
+place the images in project folder/images then update the file path.   
 ## Bill of Materials
 Hello here are results
 ## Power Budget & Circuitry
