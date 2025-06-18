@@ -34,7 +34,7 @@ Next, I made a base on Solidworks and then used Gibbscan to create the tool path
 {% include image-gallery.html images="210CNC Base.HEIC" height="400" %}   
 ## Laser Cut Walls and Lid
 I made a DMF file on Solidworks of the walls and lid for the base. I engraved the group's names and an intuitive instruction of where to press on the box and accounted for all the holes. I used CorelDraw and cut the pieces out.
-{% include image-gallery.html images="210Planningchart.png" height="400" %}   
+{% include image-gallery.html images="210Base.png" height="400" %}   
 ## 3D Printed Hinges
 I used PLA on a Makergear to print out some hinges, as ordering them would not be quick enough. The hinges ended up being crunchy, so I would change the settings on them if I revised this lamp.
 {% include image-gallery.html images="210Hinge.HEIC" height="400" %}   
@@ -49,7 +49,7 @@ We programmed the arduino to change which color of LEDs are on throughout the da
 {% include image-gallery.html images="210Planningchart.png" height="400" %}   
 ## Conclusions
 We then presented our lamp to the professors and to the client, and got to keep our lamp! It was fun to go through all the steps of a prompt to a full functioning product!
-{% include image-gallery.html images="210Planningchart.png" height="400" %}   
+{% include image-gallery.html images="210Planning.png" height="400" %}   
 ## Embedding images 
 ### External images
 {% include image-gallery.html images="https://live.staticflickr.com/65535/52821641477_d397e56bc4_k.jpg, https://live.staticflickr.com/65535/52822650673_f074b20d90_k.jpg" height="400"%}
