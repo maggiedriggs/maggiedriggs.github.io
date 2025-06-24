@@ -13,7 +13,7 @@ skills:
   - Belts & Pulleys
   - Sheet Metal Bending
 
-main-image: /Car360.jpg
+main-image: /Pin.png
 ---
 
 ---
