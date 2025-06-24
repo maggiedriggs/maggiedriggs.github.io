@@ -14,3 +14,4 @@ main-image: /sonos.png
 
 # This is another demo
 
+{% include image-gallery.html images="Gear360.png" height="400" %} place the images in project folder/images then update the file path.
