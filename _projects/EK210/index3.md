@@ -13,7 +13,7 @@ main-image: /Screenshot 2025-06-23 at 9.44.50 PM.png
 
 ---
 ### Embeed images
-{% include image-gallery.html images="210Planning.JPG" height="400" %}
+{% include image-gallery.html images="Screenshot 2025-06-17 at 3.22.43 PM.png" height="400" %}
 
 # Steps of Project
 
