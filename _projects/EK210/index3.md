@@ -16,7 +16,7 @@ main-image: /Screenshot 2025-06-23 at 9.44.50 PM.png
 {% include image-gallery.html images="210Planning.JPG" height="400" %}
 
 # Steps of Project
-Used for the title (already generated automatically at the top)
+
 ## Planning
 We first listed all of our objectives and constraints and made a project priority matrix. From there, we decided "be safe, illuminate desk, accessible for gross motor functions, and caters to light sensitivity" we our four most important objectives.
 Then, we made a morph chart to gather ideas for the means to our objectives. The goal is to lay everything out on the table with no judgments.
@@ -53,12 +53,3 @@ We programmed the arduino to change which color of LEDs are on throughout the da
 ## Conclusions
 We then presented our lamp to the professors and to the client, and got to keep our lamp! It was fun to go through all the steps of a prompt to a full functioning product!
 {% include image-gallery.html images="210Planning.png" height="400" %}   
-## Embedding images 
-### External images
-{% include image-gallery.html images="https://live.staticflickr.com/65535/52821641477_d397e56bc4_k.jpg, https://live.staticflickr.com/65535/52822650673_f074b20d90_k.jpg" height="400"%}
-<span style="font-size: 10px">"Starship Test Flight Mission" from https://www.flickr.com/photos/spacex/52821641477/</span>  
-You can put in multiple entries. All images will be at a fixed height in the same row. With smaller window, they will switch to columns.  
-
-### Embeed images
-{% include image-gallery.html images="project2.jpg" height="400" %} 
-place the images in project folder/images then update the file path.   
