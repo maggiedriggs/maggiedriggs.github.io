@@ -13,4 +13,5 @@ main-image: /Pin.png
 ---
 
 ---
-## Video
+## Paintings
+{% include image-gallery.html images="Wrinkles.jpg" images="Malala Yousafzai.JPG" images="The Girl With the Blue Eyes.JPG" height="400" %}
