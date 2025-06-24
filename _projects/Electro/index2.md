@@ -9,7 +9,7 @@ skills:
   - C
   - Prototyping / 3D Printing
 
-main-image: /car360.jpg
+main-image: /Car360.jpg
 ---
 
 ---
