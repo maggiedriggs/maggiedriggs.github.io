@@ -28,7 +28,7 @@ The picture showcases the circuit we made, with the mosfets controlling the LED 
 ## Housing
 We decided on a gooseneck arm so that the lamp is easily adjustable. Some problems aroused once we got all of our parts. The gooseneck had a weird thread size and was too large for the taps we had in the school's machine shop, and we didn't know how we would connect the gooseneck to the lamp shade.  
 So, the first thing I did was go to the machine shop and tap a new hole in the center of the gooseneck and use sheet metal to create a hinge between the gooseneck and shade.
-{% include image-gallery.html images="210Planningchart.png" height="400" %}   
+{% include image-gallery.html images="Housing210.png" height="400" %}   
 ## CNC Milled Base
 Next, I made a base on Solidworks and then used Gibbscan to create the tool path for the CNC to mill. I used HDPE as it was cheap and easy to mill, and the base had a lot of surface area so that the lamp is more stable.
 {% include image-gallery.html images="210CNCBase.png" height="400" %}   
