@@ -16,10 +16,8 @@ main-image: /project2.jpg
 # Multi-body Dynamic Model
 
 ## Embedding youtube video
-The second video has the autoplay on. copy and paste the 11-digit id found in the url link. <br>
-*Example* : https://www.youtube.com/watch?v={**LWTgxja2jng**}&ab_channel=maggiedriggs9642
-{% include youtube-video.html id="LWTgxja2jng" autoplay= "false"%}
-{% include youtube-video.html id="XGC31lmdS6s" autoplay = "true" %}
+{% include youtube-video.html id="LWTgxja2jng" autoplay= "true"%}
+
 
 The assigned task was to build and assemble a vehicle that could transport a 1ft aluminum bar 5 feet with maximum acceleration and deceleration without tipping over. The finished Solidworks Simulation is shown below, with the car taking 5.04 seconds to cover 5 feet, with an acceleration of 2.667 ft/s^2. 
 
