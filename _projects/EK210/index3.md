@@ -12,6 +12,9 @@ main-image: /Screenshot 2025-06-23 at 9.44.50 PM.png
 ---
 
 ---
+### Embeed images
+{% include image-gallery.html images="210Planning.JPG" height="400" %}
+
 # Steps of Project
 Used for the title (already generated automatically at the top)
 ## Planning
