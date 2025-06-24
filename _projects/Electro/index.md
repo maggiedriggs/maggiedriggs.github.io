@@ -39,7 +39,6 @@ The car was made with a motor with a Lego gear that drives the axle of the front
 
 The calculated acceleration was implemented into the Arduino code by using the analogWrite command to increase the rpm in a for loop at the desired rate. The Arduino code is shown in the last picture. 
 
+## Results
 In total it took the car about 9 seconds to go 5 feet, and then go back the other direction. This was larger than the estimated amount be 5 seconds.
 {% include image-gallery.html images="Code360.png" height="400" %} 
-### Results
-Hello here are results
