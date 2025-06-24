@@ -8,7 +8,7 @@ skills:
 - CNC Milling
 - Soldering
 - Arduino & Interfacing
-main-image: /Screenshot 2025-06-23 at 9.44.50 PM.png
+main-image: /210Circuitry.png
 ---
 
 ---
@@ -49,4 +49,4 @@ We programmed the arduino to change which color of LEDs are on throughout the da
 {% include image-gallery.html images="210ColorGraph.png" height="400" %}   
 ## Conclusions
 We then presented our lamp to the professors and to the client, and got to keep our lamp! It was fun to go through all the steps of a prompt to a full functioning product!
-{% include image-gallery.html images="210Planning.JPG" height="400" %} 
+{% include image-gallery.html images="210Planning.JPG""me_EK210.png" height="400" %} 
