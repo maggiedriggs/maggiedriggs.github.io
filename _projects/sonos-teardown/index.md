@@ -9,10 +9,15 @@ skills:
   - Lathe
   - CNC Mill
 
-main-image: /sonos.png
+main-image: /SheetMetal.png
 ---
 
 # Projects!
+
+## Sheet Metal Rose
+{% include image-gallery.html images="SheetMetal.png" height="400" %} 
+Drew the project on Solidworks and then uploaded the file to the water jet. Optimized material space in the water jet to minimize waste. Deburred the edges of the flower piece and polished. Used a chiesel and mallet to make patterns in each of the flowers and veins in the stem. Assembled it with a metal wire, screws, and a clamp. That's how you plant a flower in the machine shop!
+
 ## Standing Moving Spinner
 {% include image-gallery.html images="1Stander.png" height="400" %} 
 Injection molded feet, brass knob turned on the lathe, laser cut/engraved base and handle, CNC mill structure programmed with Gibbscam and viced to base. Ensuring that the sliders will move smoothly without too much force, measurements on the mill to create slots. Assembly of materials with screws. Creating holes for flat head and socket head screws. 
