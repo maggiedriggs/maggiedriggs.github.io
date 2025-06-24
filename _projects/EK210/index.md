@@ -31,22 +31,22 @@ So, the first thing I did was go to the machine shop and tap a new hole in the c
 {% include image-gallery.html images="210Planningchart.png" height="400" %}   
 ## CNC Milled Base
 Next, I made a base on Solidworks and then used Gibbscan to create the tool path for the CNC to mill. I used HDPE as it was cheap and easy to mill, and the base had a lot of surface area so that the lamp is more stable.
-{% include image-gallery.html images="210CNC Base.HEIC" height="400" %}   
+{% include image-gallery.html images="210CNCBase.png" height="400" %}   
 ## Laser Cut Walls and Lid
 I made a DMF file on Solidworks of the walls and lid for the base. I engraved the group's names and an intuitive instruction of where to press on the box and accounted for all the holes. I used CorelDraw and cut the pieces out.
 {% include image-gallery.html images="210Base.png" height="400" %}   
 ## 3D Printed Hinges
 I used PLA on a Makergear to print out some hinges, as ordering them would not be quick enough. The hinges ended up being crunchy, so I would change the settings on them if I revised this lamp.
-{% include image-gallery.html images="210Hinge.HEIC" height="400" %}   
+{% include image-gallery.html images="210Hinges.png" height="400" %}   
 ## Redo Shade and Gooseneck Connection
 The sheet metal snapped, so I needed to make a more sturdy connection. I got a 30 60 90 triangle, and milled and tapped a hole in it to fit the gooseneck, and then milled out any metal that would get in the way of the socket part of the screw. Then, I redid the sheet metal bend on top of the triangle so it had extra stability. Then I put back in the pop rivets and called that part good!
-{% include image-gallery.html images="210Connection.HEIC" height="400" %}   
+{% include image-gallery.html images="210Con.png" height="400" %}   
 ## Testing
 To ensure that our product was working as we planned it to, we ran tests on the intensity of the light and the color temperature. We found that the lux decreases as distance increases, but that at 30 inches away the light is still sufficient to read. Our objective to light a 60 by 30 inch desk is within this scope.
 {% include image-gallery.html images="EK210Intensity.png" height="400" %}   
 ## Color Temperature
 We programmed the arduino to change which color of LEDs are on throughout the day, and used photography software to measure the color temperature emitted. We found that in the morning, our lamp does radiate blue light, and at night it changes to warm light.
-{% include image-gallery.html images="210Planningchart.png" height="400" %}   
+{% include image-gallery.html images="210ColorGraph.png" height="400" %}   
 ## Conclusions
 We then presented our lamp to the professors and to the client, and got to keep our lamp! It was fun to go through all the steps of a prompt to a full functioning product!
-{% include image-gallery.html images="210Planning.png" height="400" %} 
+{% include image-gallery.html images="210Planning.JPG" height="400" %} 
