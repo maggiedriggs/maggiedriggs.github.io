@@ -12,9 +12,6 @@ main-image: /Screenshot 2025-06-23 at 9.44.50 PM.png
 ---
 
 ---
-### Embeed images
-{% include image-gallery.html images="Screenshot 2025-06-17 at 3.22.43 PM.png" height="400" %}
-
 # Steps of Project
 
 ## Planning
@@ -43,10 +40,10 @@ I used PLA on a Makergear to print out some hinges, as ordering them would not b
 {% include image-gallery.html images="210Hinge.HEIC" height="400" %}   
 ## Redo Shade and Gooseneck Connection
 The sheet metal snapped, so I needed to make a more sturdy connection. I got a 30 60 90 triangle, and milled and tapped a hole in it to fit the gooseneck, and then milled out any metal that would get in the way of the socket part of the screw. Then, I redid the sheet metal bend on top of the triangle so it had extra stability. Then I put back in the pop rivets and called that part good!
-{% include image-gallery.html images="210Connection.png" height="400" %}   
+{% include image-gallery.html images="210Connection.HEIC" height="400" %}   
 ## Testing
 To ensure that our product was working as we planned it to, we ran tests on the intensity of the light and the color temperature. We found that the lux decreases as distance increases, but that at 30 inches away the light is still sufficient to read. Our objective to light a 60 by 30 inch desk is within this scope.
-{% include image-gallery.html images="210Intensity.png" height="400" %}   
+{% include image-gallery.html images="EK210Intensity.png" height="400" %}   
 ## Color Temperature
 We programmed the arduino to change which color of LEDs are on throughout the day, and used photography software to measure the color temperature emitted. We found that in the morning, our lamp does radiate blue light, and at night it changes to warm light.
 {% include image-gallery.html images="210Planningchart.png" height="400" %}   
