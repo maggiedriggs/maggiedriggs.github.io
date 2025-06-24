@@ -14,7 +14,19 @@ main-image: /project2.jpg
 
 ---
 # Multi-body Dynamic Model
+
+## Embedding youtube video
+The second video has the autoplay on. copy and paste the 11-digit id found in the url link. <br>
+*Example* : https://www.youtube.com/watch?v={**LWTgxja2jng**}&ab_channel=maggiedriggs9642
+{% include youtube-video.html id="LWTgxja2jng" autoplay= "false"%}
+{% include youtube-video.html id="XGC31lmdS6s" autoplay = "true" %}
+
 The assigned task was to build and assemble a vehicle that could transport a 1ft aluminum bar 5 feet with maximum acceleration and deceleration without tipping over. The finished Solidworks Simulation is shown below, with the car taking 5.04 seconds to cover 5 feet, with an acceleration of 2.667 ft/s^2. 
+
+### Embeed images
+{% include image-gallery.html images="Accel.png" height="400" %} 
+place the images in project folder/images then update the file path.   
+
 
 The graphs below depict the reaction force vs the acceleration of the car. The reaction force was taken as the force on the mate of the bar's front point with the car's plane. The acceleration is increasing at a constant rate. The point at which the reaction force is zero was taken to be the maximum acceleration, because if the reaction force is zero then that is the exact moment the bar will tip over. The maximum acceleration was taken to be 812.594mm/s^2 or 2.667 ft/s^2. 
 
