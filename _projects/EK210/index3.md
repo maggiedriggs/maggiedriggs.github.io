@@ -8,7 +8,7 @@ skills:
 - CNC Milling
 - Soldering
 - Arduino & Interfacing
-main-image: /me_Ek210.png
+main-image: /Screenshot 2025-06-23 at 9.44.50 PM.png
 ---
 
 ---
