@@ -15,7 +15,7 @@ main-image: /210Circuitry.png
 # Steps of Project
 
 ## Planning
-We first listed all of our objectives and constraints and made a project priority matrix. From there, we decided "be safe, illuminate desk, accessible for gross motor functions, and caters to light sensitivity" we our four most important objectives.
+First, we listed all of our objectives and constraints and made a project priority matrix. From there, we decided "be safe, illuminate desk, accessible for gross motor functions, and caters to light sensitivity" we our four most important objectives.
 Then, we made a morph chart to gather ideas for the means to our objectives. The goal is to lay everything out on the table with no judgments.
 {% include image-gallery.html images="210Planningchart.png" height="400" %}   
 ## Bill of Materials
