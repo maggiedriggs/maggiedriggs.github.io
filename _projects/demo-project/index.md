@@ -9,9 +9,15 @@ skills:
   - Painting
   - Drawing
 
-main-image: /3.png
+main-image: /2.png
 ---
 
 ---
 ## Paintings
-{% include image-gallery.html images="1.png,2.png" height="400" %}
+{% include image-gallery.html images="1.png" height="400" %}
+{% include image-gallery.html images="2.png" height="400" %}
+{% include image-gallery.html images="3.png" height="400" %}
+{% include image-gallery.html images="4.png" height="400" %}
+{% include image-gallery.html images="5.png" height="400" %}
+{% include image-gallery.html images="6.png" height="400" %}
+{% include image-gallery.html images="7.png" height="400" %}
