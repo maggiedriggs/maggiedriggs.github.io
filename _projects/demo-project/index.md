@@ -9,9 +9,9 @@ skills:
   - Painting
   - Drawing
 
-main-image: /Pin.png
+main-image: /3.png
 ---
 
 ---
 ## Paintings
-{% include image-gallery.html images="Wrinkles.jpg" images="Malala Yousafzai.JPG" images="The Girl With the Blue Eyes.JPG" height="400" %}
+{% include image-gallery.html images="1.png","2.png","3.pngs" height="400" %}
