@@ -14,4 +14,4 @@ main-image: /3.png
 
 ---
 ## Paintings
-{% include image-gallery.html images="1.png","2.png","3.pngs" height="400" %}
+{% include image-gallery.html images="1.png" "2.png" height="400" %}
