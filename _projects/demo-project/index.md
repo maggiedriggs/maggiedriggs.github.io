@@ -14,11 +14,6 @@ main-image: /2.png
 
 ---
 ## Paintings
-
-| Portfolio | Art |
-|----------|----------|
-|{% include image-gallery.html images="1.png" height="400" %} | {% include image-gallery.html images="2.png" height="400" %}|
-|{% include image-gallery.html images="3.png" height="400" %} | {% include image-gallery.html images="4.png" height="400" %} |
 {% include image-gallery.html images="1.png" height="400" %}
 {% include image-gallery.html images="2.png" height="400" %}
 {% include image-gallery.html images="3.png" height="400" %}
