@@ -2,7 +2,7 @@
 layout: post
 title: Electromechanical Design
 description:  
-    Documentation of the projects from my junior design class! The projects highlighted are a Yahtzee shaker, a SolidWorks dyanmic car model, and then that car built out and tested for a class competition. Each blog post highlights the steps to create each item.
+    The assigned task was to build and assemble a vehicle that could transport a 1ft aluminum bar 5 feet the fastest. First, testing done in Solidworks, and then building and competing with that model.
 skills: 
   - CAD
   - Arduino
