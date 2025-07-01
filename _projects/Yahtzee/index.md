@@ -2,7 +2,7 @@
 layout: post
 title: Yahtzee Cartesian Motion System
 description:  
-    The assignment was to make a 2.5 degrees of freedom system to perform a task of choice. In a team of 4, it was decided to create Yahtzee, where the dice are picked up and vibrated to simulate rolling dice. 
+    The assignment was to make a 2.5 degrees of freedom system to perform a task of choice, chosen as Yahtzee. The dice are picked up and vibrated to simulate rolling dice. 
 skills: 
   - Interfacing MKS Base Board
   - 3D Printing
