@@ -17,6 +17,7 @@ main-image: /proj.png
 # Link to BU Today Highlighting our Project
 Our project got highlighted by the Boston University newletter for Earth Day! The system results in a 50C increase in water temperature in the pipes, harnessing renewable energy from the sun. <br>
 [Link to Article of Project](https://www.bu.edu/articles/2025/engineering-students-built-a-solar-powered-water-heater/)
+
 {% include image-gallery.html images="basic.png" height="400" %}
 
 # Final Presentation of the Project
