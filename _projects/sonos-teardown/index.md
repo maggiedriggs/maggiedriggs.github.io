@@ -8,6 +8,8 @@ skills:
   - SOLIDWORKS
   - Lathe
   - CNC Mill
+  - Laser Cutters
+  - Water Jet
 
 main-image: /SheetMetal.png
 ---
