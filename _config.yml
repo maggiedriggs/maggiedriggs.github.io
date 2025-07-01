@@ -24,7 +24,7 @@ profile_image: ./assets/images/profile-image/IMG_0291.jpeg
 
 # Link your resume
 # You can place your resume in assets/resume/{resume file.pdf} or add external link such as pdf saved in google drive 
-resume-url: https://github.com/maggiedriggs/maggiedriggs.github.io/blob/2967d93eec23a8595001a4ced5b6e2ee371b21f2/assets/resume/Maggie_DriggsResume.pdf
+resume-url: maggiedriggs.github.io/assets/resume/Maggie_DriggsResume.pdf
 
 
 # Set up external links - this will show up as small icons next to your name.
